@@ -99,7 +99,7 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=anuragchoudhary2313&theme=dark&hide_border=false" alt="GitHub Streak" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
