@@ -1,111 +1,156 @@
-# Anurag Choudhary | Aspiring Full-Stack Developer
+☁️ Anurag Choudhary | Full-Stack Developer • Cloud & DevOps Fundamentals
+<p align="center"> <a href="https://www.linkedin.com/in/anurag-choudhary-4291a228a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:anuragchoudhary603@gmail.com"> <img src="https://img.shields.io/badge/Email-anuragchoudhary603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/anuragchoudhary2313" target="_blank"> <img src="https://img.shields.io/badge/GitHub-anuragchoudhary2313-171515?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;AWS+Basics+%7C+Linux+%7C+CI%2FCD+Concepts;Building+Scalable+Web+Systems" /> </p>
+🚀 About Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/anurag-choudhary-4291a228a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:anuragchoudhary603@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/anuragchoudhary2313" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+I am a Full-Stack Developer with hands-on experience building MERN stack applications and foundational exposure to Cloud and DevOps concepts. I focus on writing clean application code while understanding how systems are deployed, configured, and maintained in real environments.
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=33F77E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anurag+Choudhary;Aspiring+Full-Stack+Developer;Passionate+about+Web+Development;Skilled+in+the+MERN+Stack;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-</a>
-</p>
+I enjoy working across the development → deployment lifecycle, strengthening my skills in C++, Data Structures & Algorithms, backend APIs, and cloud fundamentals.
 
----
+🧠 Core Skills (DevOps-Aligned)
 
-## 🚀 Projects
+Application Development
 
-<details open>
-<summary>🤝 Volunteer Opportunity and Resource Exchange Platform</summary>
+JavaScript, C++, Java
 
-**Description:** Full-stack web app connecting volunteers with NGOs, featuring user registration, opportunity posting, and messaging.
+React.js, Node.js, Express.js
 
-**Tech Stack:** React.js, Node.js, Express.js, MySQL  
-**Highlight:** Dynamic, responsive UI with seamless navigation.
-</details>
+RESTful APIs, MVC Architecture
 
-<details>
-<summary>🍔 Online Food Delivery System (College Minor Project)</summary>
+Databases
 
-**Description:** MERN stack app for browsing restaurants, placing orders, and tracking deliveries.  
+MongoDB, MySQL
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
-**Highlight:** Backend infrastructure to manage restaurants, menu items, and orders.
-</details>
+Cloud & DevOps Fundamentals
 
----
+AWS Basics (EC2, S3 – concepts & exposure)
 
-## 💼 Experience
+Linux Fundamentals (file system, processes, permissions)
 
-**Frontend Development Intern** — *CipherByte Technologies* (Aug 2023 - Sep 2023)  
-- Led end-to-end development of a personal portfolio website using Agile methodologies.  
-- Built reusable, responsive components with HTML, CSS, and JavaScript.
+CI/CD Concepts
 
----
+Environment configuration & deployment flow understanding
 
-## 💻 Tech Stack
+Tools
 
-<table align="center">
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>Tools & Platforms</b></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</td>
-</tr>
-</table>
+Git, GitHub, VS Code
 
----
+Agile, SDLC
 
-## 🏆 Achievements & Certifications
+☁️ System Architecture Mindset
 
-- **GeeksforGeeks:** 3-Star Coder in C++ (Rating: 1669)  
-- **LeetCode:** Solved 100+ coding problems  
-- **Certifications:** Java (Basic), Problem Solving, Cisco: Introduction to CyberSecurity  
+I design applications with:
 
----
+Clear frontend–backend separation
 
-## 📊 GitHub Stats & Trophies
+API-driven communication
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=anuragchoudhary2313&theme=dark&hide_border=false" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=anuragchoudhary2313&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+Modular backend structure
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=anuragchoudhary2313&icon=0&color=0" alt="Profile Views"/>
-</p>
+Cloud-ready deployment thinking (stateless services, config separation)
+
+🏗️ Projects & Architecture
+🤝 Volunteer Opportunity & Resource Exchange Platform
+
+Full-Stack MERN Application
+
+Problem:
+NGOs struggle to connect with volunteers efficiently.
+
+Solution:
+A full-stack web platform enabling volunteer registration, opportunity posting, and interaction through APIs.
+
+Tech Stack: React.js • Node.js • Express.js • MySQL
+
+🔧 Architecture Diagram
+flowchart LR
+    User -->|HTTP Requests| ReactUI
+    ReactUI -->|REST API| NodeAPI
+    NodeAPI --> ExpressServer
+    ExpressServer --> MySQLDB
+    ExpressServer --> AuthService
+
+
+Engineering Focus
+
+RESTful API design
+
+Authentication & CRUD operations
+
+Separation of concerns (UI, API, DB)
+
+Scalable backend structure
+
+🍔 Online Food Delivery System (College Minor Project)
+
+Full-Stack MERN Application
+
+Problem:
+Managing restaurant menus, orders, and users efficiently.
+
+Solution:
+A modular food ordering system with structured backend APIs and database design.
+
+Tech Stack: MongoDB • Express.js • React.js • Node.js
+
+🔧 Architecture Diagram
+flowchart LR
+    Client --> ReactApp
+    ReactApp -->|API Calls| NodeBackend
+    NodeBackend --> ExpressAPI
+    ExpressAPI --> MongoDB
+    ExpressAPI --> OrderService
+    ExpressAPI --> UserService
+
+
+Engineering Focus
+
+Backend API structuring
+
+Database schema design
+
+Modular services
+
+Clean request–response flow
+
+💼 Experience
+Frontend Development Intern — CipherByte Technologies
+
+Aug 2023 – Sep 2023
+
+Developed responsive web interfaces using HTML, CSS, and JavaScript
+
+Built reusable UI components following Agile practices
+
+Debugged UI issues and improved performance
+
+Used Git/GitHub for version control and collaboration
+
+🏆 Achievements & Certifications
+
+⭐ GeeksforGeeks: 3-Star Coder in C++ (Rating: 1669)
+
+💡 LeetCode: Solved 100+ coding problems
+
+☁️ AWS Academy Graduate – Cloud Architecting
+
+🔐 Cisco – Introduction to Cybersecurity
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=dark&hide_border=true" height="160"/> <img src="https://nirzak-streak-stats.vercel.app/?user=anuragchoudhary2313&theme=dark&hide_border=true" height="160"/> </p>
+🎯 Career Focus
+
+Junior Software Engineer
+
+Full-Stack Developer
+
+Cloud / DevOps Intern
+
+Backend Engineer (Entry-Level)
+
+Actively learning cloud-native practices and real-world deployment workflows.
+
+📫 Let’s Connect
+
+💼 LinkedIn: Anurag Choudhary
+
+📧 Email: anuragchoudhary603@gmail.com
