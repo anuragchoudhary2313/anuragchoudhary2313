@@ -167,18 +167,6 @@ Currently building cloud-native skills and learning real-world deployment workfl
 
 ⭐ If you like my work, consider giving a star to my repositories!
 
-markdown
-Copy code
-
----
-
-### 🔥 Why this README works
-- **Recruiter-friendly**
-- **Clean DevOps signal**
-- **Modern GitHub aesthetic**
-- **No unnecessary fluff**
-- **Strong architecture focus**
-
 If you want next:
 - ⚡ **Ultra-minimal one-screen README**
 - 🧠 **FAANG-style backend profile**
