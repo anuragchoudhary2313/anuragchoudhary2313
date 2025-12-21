@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;AWS+Basics+%7C+Linux+%7C+CI%2FCD;Building+Scalable+Web+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;AWS+Cloud+Basics;Building+Scalable+Applications" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Developer** with hands-on experience building **MERN stack applications** and a growing foundation in **Cloud & DevOps**.  
+I'm a **Full-Stack Developer** with hands-on experience building **MERN stack applications** and a growing foundation in **Cloud & DevOps**.  
 I focus on writing **clean, maintainable code** while understanding how applications are **deployed, configured, and scaled** in real environments.
 
 I enjoy working across the **development → deployment lifecycle**, strengthening my skills in **C++**, **Data Structures & Algorithms**, backend APIs, and cloud fundamentals.
@@ -83,32 +83,30 @@ flowchart LR
   NodeAPI --> ExpressServer
   ExpressServer --> MySQLDB
   ExpressServer --> AuthService
-Engineering Focus
+```
 
-RESTful API design
+**Engineering Focus**
+- RESTful API design
+- Authentication & CRUD operations
+- Separation of concerns
+- Scalable backend structure
 
-Authentication & CRUD operations
+---
 
-Separation of concerns
+### 🍔 Online Food Delivery System (College Minor Project)
+**Full-Stack MERN Application**
 
-Scalable backend structure
-
-🍔 Online Food Delivery System (College Minor Project)
-Full-Stack MERN Application
-
-Problem
+**Problem**  
 Managing menus, orders, and users efficiently.
 
-Solution
+**Solution**  
 A modular food ordering system with structured APIs and optimized database design.
 
-Tech Stack
+**Tech Stack**  
 MongoDB • Express.js • React.js • Node.js
 
-Architecture
-
-mermaid
-Copy code
+**Architecture**
+```mermaid
 flowchart LR
   Client --> ReactApp
   ReactApp -->|API Calls| NodeBackend
@@ -116,61 +114,77 @@ flowchart LR
   ExpressAPI --> MongoDB
   ExpressAPI --> OrderService
   ExpressAPI --> UserService
-Engineering Focus
+```
 
-Backend API structuring
+**Engineering Focus**
+- Backend API structuring
+- Database schema design
+- Modular services
+- Clean request–response flow
 
-Database schema design
+---
 
-Modular services
+## 💼 Experience
 
-Clean request–response flow
+### Frontend Development Intern — CipherByte Technologies
+**Aug 2023 – Sep 2023**
 
-💼 Experience
-Frontend Development Intern — CipherByte Technologies
-Aug 2023 – Sep 2023
+- Developed responsive web interfaces using HTML, CSS, and JavaScript
+- Built reusable UI components following Agile practices
+- Debugged UI issues and improved performance
+- Used Git/GitHub for version control and collaboration
 
-Developed responsive web interfaces using HTML, CSS, and JavaScript
+---
 
-Built reusable UI components following Agile practices
+## 🏆 Achievements & Certifications
 
-Debugged UI issues and improved performance
+- ⭐ **GeeksforGeeks** — 3-Star Coder in C++ (Rating: 1669)
+- 💡 **LeetCode** — Solved 100+ problems
+- ☁️ **AWS Academy Graduate** — Cloud Architecting
+- 🔐 **Cisco** — Introduction to Cybersecurity
 
-Used Git/GitHub for version control and collaboration
+---
 
-🏆 Achievements & Certifications
-⭐ GeeksforGeeks — 3-Star Coder in C++ (Rating: 1669)
+## 📊 GitHub Activity
 
-💡 LeetCode — Solved 100+ problems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchoudhary2313&theme=dark&hide_border=true" height="160"/>
+</p>
 
-☁️ AWS Academy Graduate — Cloud Architecting
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
 
-🔐 Cisco — Introduction to Cybersecurity
+---
 
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=dark&hide_border=true" height="160"/> <img src="https://nirzak-streak-stats.vercel.app/?user=anuragchoudhary2313&theme=dark&hide_border=true" height="160"/> </p>
-🎯 Career Focus
-Junior Software Engineer
+## 🎯 Career Focus
 
-Full-Stack Developer
-
-Cloud / DevOps Intern
-
-Backend Engineer (Entry-Level)
+- Junior Software Engineer
+- Full-Stack Developer
+- Cloud / DevOps Intern
+- Backend Engineer (Entry-Level)
 
 Currently building cloud-native skills and learning real-world deployment workflows.
 
-📫 Let’s Connect
-💼 LinkedIn: Anurag Choudhary
+---
 
-📧 Email: anuragchoudhary603@gmail.com
+## 📫 Let's Connect
 
-⭐ If you like my work, consider giving a star to my repositories!
+- 💼 **LinkedIn**: [Anurag Choudhary](https://www.linkedin.com/in/anurag-choudhary-4291a228a/)
+- 📧 **Email**: anuragchoudhary603@gmail.com
+- 🐙 **GitHub**: [@anuragchoudhary2313](https://github.com/anuragchoudhary2313)
 
-If you want next:
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+---
+
+### Want a different style?
 - ⚡ **Ultra-minimal one-screen README**
 - 🧠 **FAANG-style backend profile**
 - ☁️ **Cloud/DevOps-focused version**
 - 🎨 **Dark neon / Apple-style theme**
 
-Just tell me 👍
+Just let me know! 👍
