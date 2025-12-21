@@ -14,7 +14,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33F77E&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Applications;Exploring+Cloud+%26+DevOps+Architecture;C%2B%2B+%7C+Data+Structures+%7C+Algorithms;bridging+Dev+and+Ops" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33F77E&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Applications;Exploring+Cloud+%26+DevOps+Architecture;C%2B%2B+%7C+Data+Structures+%7C+Algorithms;Bridging+Dev+and+Ops" />
 </div>
 
 ---
@@ -60,16 +60,7 @@ flowchart LR
     ExpressServer --> AuthService[Auth Service]
     style User fill:#f9f,stroke:#333,stroke-width:2px
     style MySQLDB fill:#bbf,stroke:#333,stroke-width:2px
-🍔 Online Food Delivery System
-A modular food ordering system with structured backend APIs.
-
-Tech: MongoDB, Express.js, React.js, Node.js
-
-Focus: Schema Design, Service Modularity, Request Flow.
-
-Code snippet
-
-flowchart LR
+🍔 Online Food Delivery SystemA modular food ordering system with structured backend APIs.Tech: MongoDB, Express.js, React.js, Node.jsFocus: Schema Design, Service Modularity, Request Flow.Code snippetflowchart LR
     Client([Client]) --> ReactApp[React App]
     ReactApp -->|API Calls| NodeBackend[Node Backend]
     NodeBackend --> ExpressAPI[Express API]
@@ -78,23 +69,4 @@ flowchart LR
     ExpressAPI --> UserService[User Service]
     style Client fill:#f9f,stroke:#333,stroke-width:2px
     style MongoDB fill:#bbf,stroke:#333,stroke-width:2px
-💼 Experience
-Frontend Development Intern | CipherByte Technologies Aug 2023 – Sep 2023
-
-Designed responsive web interfaces using HTML, CSS, and JS.
-
-Built reusable UI components within an Agile environment.
-
-Optimized performance and collaborated via Git/GitHub.
-
-🏆 Achievements & Certifications
-Award / Cert	Description
-⭐ GeeksforGeeks	3-Star Coder in C++ (Rating: 1669)
-💡 LeetCode	100+ Problems Solved (DSA & Logic)
-☁️ AWS Academy	Graduate – Cloud Architecting
-🔐 Cisco	Introduction to Cybersecurity
-
-📊 GitHub Analytics
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danuragchoudhary2313%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danuragchoudhary2313%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="languages" /> </div> <div align="center"> <img src="https://www.google.com/search?q=https://git.io/streak-stats-svg%3Fuser%3Danuragchoudhary2313%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="streak" /> </div>
-
-<div align="center"> <i>Let's build something amazing together!</i> </div>
+💼 ExperienceFrontend Development Intern | CipherByte TechnologiesAug 2023 – Sep 2023Designed responsive web interfaces using HTML, CSS, and JS.Built reusable UI components within an Agile environment.Optimized performance and collaborated via Git/GitHub.🏆 Achievements & CertificationsAward / CertDescription⭐ GeeksforGeeks3-Star Coder in C++ (Rating: 1669)💡 LeetCode100+ Problems Solved (DSA & Logic)☁️ AWS AcademyGraduate – Cloud Architecting🔐 CiscoIntroduction to Cybersecurity📊 GitHub Analytics<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danuragchoudhary2313%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="stats" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danuragchoudhary2313%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" alt="languages" /></div><div align="center"><img src="https://www.google.com/search?q=https://git.io/streak-stats-svg%3Fuser%3Danuragchoudhary2313%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="streak" /></div><div align="center"><i>Let's build something amazing together!</i></div>
