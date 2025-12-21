@@ -178,13 +178,3 @@ Currently building cloud-native skills and learning real-world deployment workfl
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
-
----
-
-### Want a different style?
-- ⚡ **Ultra-minimal one-screen README**
-- 🧠 **FAANG-style backend profile**
-- ☁️ **Cloud/DevOps-focused version**
-- 🎨 **Dark neon / Apple-style theme**
-
-Just let me know! 👍
