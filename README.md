@@ -149,13 +149,11 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragchoudhary2313&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anuragchoudhary2313&theme=tokyonight&hide_border=true" width="420" />
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragchoudhary2313&theme=tokyonight)
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="420" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragchoudhary2313&theme=tokyonight)
 
 </div>
 
