@@ -24,7 +24,7 @@
 I'm a **Full-Stack Developer** with hands-on experience building **MERN stack applications** and a growing foundation in **Cloud & DevOps**.  
 I focus on writing **clean, maintainable code** while understanding how applications are **deployed, configured, and scaled** in real environments.
 
-I enjoy working across the **development → deployment lifecycle**, strengthening my skills in **C++**, **Data Structures & Algorithms**, backend APIs, and cloud fundamentals. 
+I enjoy working across the **development → deployment lifecycle**, strengthening my skills in **C++**, **Data Structures & Algorithms**, backend APIs, and cloud fundamentals.
 
 ---
 
@@ -73,7 +73,7 @@ NGOs struggle to efficiently connect with volunteers.
 A full-stack platform enabling volunteer registration, opportunity posting, and API-based interactions.
 
 **Tech Stack**  
-React.js • Node. js • Express.js • MySQL  
+React.js • Node.js • Express.js • MySQL  
 
 **Architecture**
 ```mermaid
@@ -83,30 +83,32 @@ flowchart LR
   NodeAPI --> ExpressServer
   ExpressServer --> MySQLDB
   ExpressServer --> AuthService
-```
+Engineering Focus
 
-**Engineering Focus**
-- RESTful API design
-- Authentication & CRUD operations
-- Separation of concerns
-- Scalable backend structure
+RESTful API design
 
----
+Authentication & CRUD operations
 
-### 🍔 Online Food Delivery System (College Minor Project)
-**Full-Stack MERN Application**
+Separation of concerns
 
-**Problem**  
+Scalable backend structure
+
+🍔 Online Food Delivery System (College Minor Project)
+Full-Stack MERN Application
+
+Problem
 Managing menus, orders, and users efficiently.
 
-**Solution**  
+Solution
 A modular food ordering system with structured APIs and optimized database design.
 
-**Tech Stack**  
+Tech Stack
 MongoDB • Express.js • React.js • Node.js
 
-**Architecture**
-```mermaid
+Architecture
+
+mermaid
+Copy code
 flowchart LR
   Client --> ReactApp
   ReactApp -->|API Calls| NodeBackend
@@ -114,67 +116,55 @@ flowchart LR
   ExpressAPI --> MongoDB
   ExpressAPI --> OrderService
   ExpressAPI --> UserService
-```
+Engineering Focus
 
-**Engineering Focus**
-- Backend API structuring
-- Database schema design
-- Modular services
-- Clean request–response flow
+Backend API structuring
 
----
+Database schema design
 
-## 💼 Experience
+Modular services
 
-### Frontend Development Intern — CipherByte Technologies
-**Aug 2023 – Sep 2023**
+Clean request–response flow
 
-- Developed responsive web interfaces using HTML, CSS, and JavaScript
-- Built reusable UI components following Agile practices
-- Debugged UI issues and improved performance
-- Used Git/GitHub for version control and collaboration
+💼 Experience
+Frontend Development Intern — CipherByte Technologies
+Aug 2023 – Sep 2023
 
----
+Developed responsive web interfaces using HTML, CSS, and JavaScript
 
-## 🏆 Achievements & Certifications
+Built reusable UI components following Agile practices
 
-- ⭐ **GeeksforGeeks** — 3-Star Coder in C++ (Rating: 1669)
-- 💡 **LeetCode** — Solved 100+ problems
-- ☁️ **AWS Academy Graduate** — Cloud Architecting
-- 🔐 **Cisco** — Introduction to Cybersecurity
+Debugged UI issues and improved performance
 
----
+Used Git/GitHub for version control and collaboration
 
-## 📊 GitHub Activity
+🏆 Achievements & Certifications
+⭐ GeeksforGeeks — 3-Star Coder in C++ (Rating: 1669)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel. app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchoudhary2313&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+💡 LeetCode — Solved 100+ problems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+☁️ AWS Academy Graduate — Cloud Architecting
 
----
+🔐 Cisco — Introduction to Cybersecurity
 
-## 🎯 Career Focus
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchoudhary2313&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchoudhary2313&theme=tokyo-night&hide_border=true"/> </p>
+🎯 Career Focus
+Junior Software Engineer
 
-- Junior Software Engineer
-- Full-Stack Developer
-- Cloud / DevOps Intern
-- Backend Engineer (Entry-Level)
+Full-Stack Developer
+
+Cloud / DevOps Intern
+
+Backend Engineer (Entry-Level)
 
 Currently building cloud-native skills and learning real-world deployment workflows.
 
----
+📫 Let's Connect
+💼 LinkedIn: Anurag Choudhary
 
-## 📫 Let's Connect
+📧 Email: anuragchoudhary603@gmail.com
 
-- 💼 **LinkedIn**:  [Anurag Choudhary](https://www.linkedin.com/in/anurag-choudhary-4291a228a/)
-- 📧 **Email**: anuragchoudhary603@gmail. com
-- 🐙 **GitHub**: [@anuragchoudhary2313](https://github.com/anuragchoudhary2313)
+🐙 GitHub: @anuragchoudhary2313
 
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ If you like my work, consider giving a star to my repositories!
