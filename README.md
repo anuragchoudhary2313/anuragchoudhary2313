@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;Building+Scalable+Applications;Learning+AWS+%26+Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;Building+Scalable+Applications;Learning+AWS+%26+System+Design" alt="Typing Animation"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 I'm a **Full-Stack Developer** with hands-on experience building **MERN stack applications** and a growing foundation in **Cloud & DevOps**.  
 I focus on writing **clean, maintainable code** while understanding how applications are **deployed, configured, and scaled** in real environments.
 
-I enjoy working across the **development → deployment lifecycle**, strengthening my skills in **C++**, **Data Structures & Algorithms**, backend APIs, and cloud fundamentals.
+I enjoy working across the **development → deployment lifecycle**, strengthening my skills in **C++**, **Data Structures & Algorithms**, backend APIs, and cloud fundamentals. 
 
 ---
 
@@ -73,7 +73,7 @@ NGOs struggle to efficiently connect with volunteers.
 A full-stack platform enabling volunteer registration, opportunity posting, and API-based interactions.
 
 **Tech Stack**  
-React.js • Node.js • Express.js • MySQL  
+React.js • Node. js • Express.js • MySQL  
 
 **Architecture**
 ```mermaid
@@ -148,7 +148,7 @@ flowchart LR
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel. app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchoudhary2313&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
@@ -171,8 +171,8 @@ Currently building cloud-native skills and learning real-world deployment workfl
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [Anurag Choudhary](https://www.linkedin.com/in/anurag-choudhary-4291a228a/)
-- 📧 **Email**: anuragchoudhary603@gmail.com
+- 💼 **LinkedIn**:  [Anurag Choudhary](https://www.linkedin.com/in/anurag-choudhary-4291a228a/)
+- 📧 **Email**: anuragchoudhary603@gmail. com
 - 🐙 **GitHub**: [@anuragchoudhary2313](https://github.com/anuragchoudhary2313)
 
 ---
