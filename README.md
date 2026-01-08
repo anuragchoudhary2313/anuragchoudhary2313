@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;Building+Scalable+Applications;Learning+AWS+%26+System+Design" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;Building+Cloud-Native+Applications;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ NGOs struggle to efficiently connect with volunteers.
 A full-stack platform enabling volunteer registration, opportunity posting, and API-based interactions.
 
 **Tech Stack**  
-React.js • Node. js • Express.js • MySQL  
+React.js • Node.js • Express.js • MySQL  
 
 **Architecture**
 ```mermaid
@@ -121,6 +121,35 @@ flowchart LR
 - Database schema design
 - Modular services
 - Clean request–response flow
+
+---
+
+## 🌟 Recent Open Source Contributions
+
+### Active Pull Requests
+
+#### [digitomize/digitomize](https://github.com/digitomize/digitomize) 
+Contributing to a platform that aggregates coding contests and competitive programming events.
+
+**Recent PRs:**
+- 🎨 **[#1110 - Add global neon scrollbar styling](https://github.com/digitomize/digitomize/pull/1110)** 
+  - Implemented modern scrollbar with gradient effects and hover animations
+  - Enhanced visual polish with Digitomize brand palette
+  
+- 📱 **[#1109 - Improve profile page responsiveness](https://github.com/digitomize/digitomize/pull/1109)**
+  - Enhanced responsive layout with flexible max-width constraints
+  - Better adaptability across mobile, tablet, and desktop screens
+
+- 🔍 **[#1108 - Add query-based contest filtering](https://github.com/digitomize/digitomize/pull/1108)**
+  - Implemented platform query parameter for contest filtering
+  - Added URL synchronization for shareable filter states
+  - Maintained backward compatibility with legacy parameters
+
+- 🎯 **[#1107 - Add colorful terminal logs](https://github.com/digitomize/digitomize/pull/1107)**
+  - Enhanced backend logging with color-coded console output
+  - Improved developer experience with visual status indicators
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
