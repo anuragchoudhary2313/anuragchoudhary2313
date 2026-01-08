@@ -19,6 +19,55 @@
 
 ---
 
+## 📊 Real-Time GitHub Statistics
+
+<div align="center">
+
+### 🔥 Contribution Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragchoudhary2313&theme=tokyonight&hide_border=true)
+
+### 💻 Language Distribution
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anuragchoudhary2313&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+### 📈 Contribution Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2026%20Commits-7-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="2026 Commits"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-9-blue?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Contributed%20To-9%20Repos-purple?style=for-the-badge&logo=github&logoColor=white" alt="Contributed To"/>
+  <img src="https://img.shields.io/badge/Total%20Issues-1-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Total Issues"/>
+</p>
+
+### 🛠️ Primary Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### 🌟 2026 Activity Overview
+
+**Location:** 📍 Indore, India  
+**GitHub Member Since:** 2 years  
+**Active Contributor:** Contributing to open-source projects and building full-stack applications
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a **Full-Stack Developer** with hands-on experience building **MERN stack applications** and a growing foundation in **Cloud & DevOps**.  
@@ -174,7 +223,7 @@ Contributing to a platform that aggregates coding contests and competitive progr
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Detailed GitHub Activity
 
 <div align="center">
 
@@ -182,11 +231,13 @@ Contributing to a platform that aggregates coding contests and competitive progr
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragchoudhary2313&theme=tokyonight)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragchoudhary2313&theme=tokyonight)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuragchoudhary2313&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragchoudhary2313&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuragchoudhary2313&theme=tokyonight)
 
 </div>
-
-
 
 ---
 
@@ -209,4 +260,12 @@ Currently building cloud-native skills and learning real-world deployment workfl
 
 ---
 
+<div align="center">
+
+### 💖 Support My Work
+
 ⭐ **If you like my work, consider giving a star to my repositories!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=anuragchoudhary2313&color=blueviolet&style=for-the-badge)
+
+</div>
