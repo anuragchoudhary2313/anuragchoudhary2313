@@ -1,222 +1,231 @@
-# ☁️ Anurag Choudhary   
-### Full-Stack Developer • Cloud & DevOps Fundamentals  
+# 👋 Hi, I'm Anurag Choudhary
+
+### Software Developer | Frontend & Full-Stack Development | AI & Cloud Technologies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-choudhary-4291a228a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/anurag-choudhary-4291a228a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anuragchoudhary603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anuragchoudhary603@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/anuragchoudhary2313" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anuragchoudhary2313-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/anuragchoudhary2313">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=33F77E&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(MERN);Cloud+%26+DevOps+Fundamentals;Building+Cloud-Native+Applications;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+Applications;Exploring+Artificial+Intelligence;Learning+Cloud+%26+DevOps;Contributing+to+Open+Source;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with hands-on experience building **MERN stack applications** and a growing foundation in **Cloud & DevOps**.  
-I focus on writing **clean, maintainable code** while understanding how applications are **deployed, configured, and scaled** in real environments.
+I'm a **B.Tech Information Technology graduate (2026)** passionate about building practical software solutions and exploring emerging technologies.
 
-I enjoy working across the **development → deployment lifecycle**, strengthening my skills in **C++**, **Data Structures & Algorithms**, backend APIs, and cloud fundamentals. 
+I enjoy developing responsive web applications, designing user-friendly interfaces, and working with backend technologies to create functional products.
 
----
+My interests include:
 
-## 🧠 Core Skills (DevOps-Aligned)
+- 💻 Frontend and Full-Stack Web Development
+- 🤖 Artificial Intelligence and Machine Learning
+- ☁️ Cloud Computing and DevOps
+- 🔐 Cybersecurity and Network Security
+- 🧩 Data Structures and Problem Solving
+- 🌐 Open Source Development
 
-### 💻 Application Development
-- JavaScript, C++, Java  
-- React.js, Node.js, Express.js  
-- RESTful APIs, MVC Architecture  
-
-### 🗄️ Databases
-- MongoDB  
-- MySQL  
-
-### ☁️ Cloud & DevOps Fundamentals
-- AWS Basics (EC2, S3 — concepts & hands-on exposure)  
-- Linux Fundamentals (filesystem, processes, permissions)  
-- CI/CD Concepts  
-- Environment configuration & deployment flow  
-
-### 🛠️ Tools & Practices
-- Git, GitHub, VS Code  
-- Agile & SDLC  
+I believe in learning by building, experimenting with new technologies, and continuously improving my engineering skills.
 
 ---
 
-## ☁️ System Architecture Mindset
+## 🛠️ Technical Skills
 
-I design applications with:
-- Clear **frontend–backend separation**
-- **API-driven** communication
-- **Modular backend** structure
-- **Cloud-ready thinking** (stateless services, config separation)
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python"/>
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github"/>
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
+
+### Core Concepts
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- REST API Development
+- MVC Architecture
+- Git & Version Control
+- Cloud Computing Fundamentals
+- CI/CD Fundamentals
 
 ---
 
-## 🏗️ Projects & Architecture
+## 🚀 Featured Projects
+
+### 🤖 AI Job Automation Platform
+
+**An intelligent job discovery platform designed to simplify the job search process.**
+
+Developed to help job seekers discover relevant opportunities based on their skills and career interests.
+
+**Key Features**
+- Skill-based job discovery.
+- Job opportunity aggregation.
+- Simplified job search experience.
+- User-focused interface.
+
+**Technologies:** React.js, JavaScript, HTML, CSS, MySQL
+
+🔗 [Live Demo](https://ai-job-automation-platform-ebon.vercel.app/)
+
+💻 [GitHub Repository](https://github.com/anuragchoudhary2313/AI-Job-Automation-Platform)
+
+---
+
+### 🛡️ NetShield – Network Security Analyzer
+
+**A network security project focused on analyzing network activity and identifying potential security concerns.**
+
+**Key Features**
+- Network security analysis.
+- Real-time monitoring concepts.
+- Security-focused data visualization.
+- Interactive dashboard.
+
+**Technologies:** React.js, Python, MongoDB
+
+🔗 [Live Demo](https://major-project-net-shield.vercel.app/)
+
+---
 
 ### 🤝 Volunteer Opportunity & Resource Exchange Platform
-**Full-Stack MERN Application**
 
-**Problem**  
-NGOs struggle to efficiently connect with volunteers.
+**A platform designed to connect volunteers with organizations and NGOs.**
 
-**Solution**  
-A full-stack platform enabling volunteer registration, opportunity posting, and API-based interactions.
+**Key Features**
+- Volunteer registration.
+- Opportunity management.
+- Organization-focused functionality.
+- API-driven application architecture.
 
-**Tech Stack**  
-React.js • Node.js • Express.js • MySQL  
+**Technologies:** React.js, Node.js, Express.js, MySQL
 
-**Architecture**
-```mermaid
-flowchart LR
-  User --> ReactUI
-  ReactUI -->|REST API| NodeAPI
-  NodeAPI --> ExpressServer
-  ExpressServer --> MySQLDB
-  ExpressServer --> AuthService
-```
-
-**Engineering Focus**
-- RESTful API design
-- Authentication & CRUD operations
-- Separation of concerns
-- Scalable backend structure
+🔗 [Live Demo](https://minor-project-2-volunteer-opportuni.vercel.app/)
 
 ---
 
-### 🍔 Online Food Delivery System (College Minor Project)
-**Full-Stack MERN Application**
+## 🌟 Open Source Contributions
 
-**Problem**  
-Managing menus, orders, and users efficiently.
+I enjoy contributing to open-source projects, improving user experiences, and exploring real-world codebases.
 
-**Solution**  
-A modular food ordering system with structured APIs and optimized database design.
+### [Digitomize](https://github.com/digitomize/digitomize)
 
-**Tech Stack**  
-MongoDB • Express.js • React.js • Node.js
+Contributing to an open-source platform that aggregates coding contests and competitive programming events.
 
-**Architecture**
-```mermaid
-flowchart LR
-  Client --> ReactApp
-  ReactApp -->|API Calls| NodeBackend
-  NodeBackend --> ExpressAPI
-  ExpressAPI --> MongoDB
-  ExpressAPI --> OrderService
-  ExpressAPI --> UserService
-```
+**Contributions / Pull Requests**
 
-**Engineering Focus**
-- Backend API structuring
-- Database schema design
-- Modular services
-- Clean request–response flow
+| PR | Contribution |
+|---|---|
+| [#1110](https://github.com/digitomize/digitomize/pull/1110) | Global neon scrollbar styling |
+| [#1109](https://github.com/digitomize/digitomize/pull/1109) | Profile page responsiveness |
+| [#1108](https://github.com/digitomize/digitomize/pull/1108) | Query-based contest filtering |
+| [#1107](https://github.com/digitomize/digitomize/pull/1107) | Colorful terminal logging |
 
----
-
-## 🌟 Recent Open Source Contributions
-
-### Active Pull Requests
-
-#### [digitomize/digitomize](https://github.com/digitomize/digitomize) 
-Contributing to a platform that aggregates coding contests and competitive programming events.
-
-**Recent PRs:**
-- 🎨 **[#1110 - Add global neon scrollbar styling](https://github.com/digitomize/digitomize/pull/1110)** 
-  - Implemented modern scrollbar with gradient effects and hover animations
-  - Enhanced visual polish with Digitomize brand palette
-  
-- 📱 **[#1109 - Improve profile page responsiveness](https://github.com/digitomize/digitomize/pull/1109)**
-  - Enhanced responsive layout with flexible max-width constraints
-  - Better adaptability across mobile, tablet, and desktop screens
-
-- 🔍 **[#1108 - Add query-based contest filtering](https://github.com/digitomize/digitomize/pull/1108)**
-  - Implemented platform query parameter for contest filtering
-  - Added URL synchronization for shareable filter states
-  - Maintained backward compatibility with legacy parameters
-
-- 🎯 **[#1107 - Add colorful terminal logs](https://github.com/digitomize/digitomize/pull/1107)**
-  - Enhanced backend logging with color-coded console output
-  - Improved developer experience with visual status indicators
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
----
-
-## 💼 Experience
-
-### Frontend Development Intern — CipherByte Technologies
-**Aug 2023 – Sep 2023**
-
-- Developed responsive web interfaces using HTML, CSS, and JavaScript
-- Built reusable UI components following Agile practices
-- Debugged UI issues and improved performance
-- Used Git/GitHub for version control and collaboration
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- ⭐ **GeeksforGeeks** — 3-Star Coder in C++ (Rating: 1669)
-- 💡 **LeetCode** — Solved 100+ problems
-- ☁️ **AWS Academy Graduate** — Cloud Architecting
-- 🔐 **Cisco** — Introduction to Cybersecurity
+- ☁️ **AWS Academy Graduate** – Cloud Architecting.
+- 🤖 **NVIDIA** – Generative AI Certification.
+- 🔐 **Cisco** – Introduction to Cybersecurity.
+- 💻 **HackerRank** – Problem Solving.
+- 🧩 **LeetCode** – 100+ Problems Solved.
+- ⭐ **CodeChef** – Competitive Programming (1-Star).
 
 ---
 
-## 📊 Detailed GitHub Activity
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragchoudhary2313&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchoudhary2313&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragchoudhary2313&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragchoudhary2313&theme=tokyonight)
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuragchoudhary2313&theme=tokyonight)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragchoudhary2313&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuragchoudhary2313&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchoudhary2313&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
-## 🎯 Career Focus
+## 📈 Contribution Activity
 
-- Junior Software Engineer
-- Full-Stack Developer
-- Cloud / DevOps Intern
-- Backend Engineer (Entry-Level)
-
-Currently building cloud-native skills and learning real-world deployment workflows.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragchoudhary2313&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Currently Exploring
 
-- 💼 **LinkedIn**:  [Anurag Choudhary](https://www.linkedin.com/in/anurag-choudhary-4291a228a/)
-- 📧 **Email**: anuragchoudhary603@gmail.com
-- 🐙 **GitHub**: [@anuragchoudhary2313](https://github.com/anuragchoudhary2313)
+- Building scalable web applications.
+- AI-powered application development.
+- Backend architecture and API design.
+- AWS cloud services.
+- Docker and CI/CD workflows.
+- Data Structures and Algorithms.
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### 💖 Support My Work
+I'm always interested in connecting with developers, exploring new technologies, collaborating on projects, and contributing to open source.
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-choudhary-4291a228a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:anuragchoudhary603@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/anuragchoudhary2313">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anuragchoudhary2313&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragchoudhary2313&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-</div>
+<h3 align="center">💡 Build. Learn. Contribute. Repeat.</h3>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
